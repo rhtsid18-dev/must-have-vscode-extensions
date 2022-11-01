@@ -2,7 +2,7 @@
 
 ## A list of vscode extensions that I have found to be essentials in my workflow: -
 
-* [markdownlinkt](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+* [markdownlink](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
     * It's great for avoiding silliy code formatting mistakes in markdown.
     * It's great for keeping a standardized set of linting rules for every contributor in the codebase to follow.
 * [GitLens](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
