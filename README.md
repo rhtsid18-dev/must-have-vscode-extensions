@@ -16,9 +16,9 @@
 * [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore)
     * Adds gitignore language support to the file.
     * Provides commands link add .gitignore throught the command pallet using which you can generate a .gitignore file in your repo based on some pre-existing templates.
-* [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme)
-    * Adds great Material UI themes for VS code.
-    * I personally like the Material Theme Palenight High Contrast.
+* [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+    * This is the official VSCode theme from GitHub.
+    * I like the Github Dark Dimmed variant of this theme the most.
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons)
     * Adds descriptive icons to all file types in the VSCode explorer sidebar.
 * [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
