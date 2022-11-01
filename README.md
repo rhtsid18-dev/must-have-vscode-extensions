@@ -40,6 +40,14 @@
     "editor.guides.bracketPairs":"active"
 }
 ```
+## Good to have visual settings: -
+
+```json
+{
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true
+}
+```
 
 ## References: -
 
