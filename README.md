@@ -40,6 +40,12 @@
     "editor.guides.bracketPairs":"active"
 }
 ```
+* Configure the following settings in your VSCode user.settings as this will enable sticky scrolling: -
+```json
+{
+    "editor.stickyScroll.enabled": true
+}
+```
 ## Good to have visual settings: -
 
 ```json
@@ -51,5 +57,5 @@
 
 ## References: -
 
-* This is a great video on youtube from where I referenced most of the git extensions in the list below.
-* This is another great video on youtube from where I got the reference for the rest of the extensions in the list above.
+* [This](https://www.youtube.com/watch?v=Guva-oab1pg) is a great video on youtube from where I referenced most of the git extensions in the list below.
+* [This](https://www.youtube.com/watch?v=c5GAS_PMXDs) is another great video on youtube from where I got the reference for the rest of the extensions in the list above.
