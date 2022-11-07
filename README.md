@@ -29,6 +29,8 @@
     * The name pretty much sums it up.
 * [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
     * Adds auto-complete suggestion support when adding classes to HTML elements.
+* [AutoComplate shell](https://marketplace.visualstudio.com/items?itemName=truman.autocomplate-shell)
+    * Adds rich language support for shell scripts
 
 ## Other must have setup related things: -
 
@@ -40,12 +42,15 @@
     "editor.guides.bracketPairs":"active"
 }
 ```
+
 * Configure the following settings in your VSCode user.settings as this will enable sticky scrolling: -
+
 ```json
 {
     "editor.stickyScroll.enabled": true
 }
 ```
+
 ## Good to have visual settings: -
 
 ```json
