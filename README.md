@@ -31,6 +31,8 @@
     * Adds auto-complete suggestion support when adding classes to HTML elements.
 * [AutoComplate shell](https://marketplace.visualstudio.com/items?itemName=truman.autocomplate-shell)
     * Adds rich language support for shell scripts
+* [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+    * Adds complete support for all things docker. Main things that I am interested in is that it provides intelliSense for `Dockerfile` and `docker-compose.yml` files.ß
 
 ## Other must have setup related things: -
 
